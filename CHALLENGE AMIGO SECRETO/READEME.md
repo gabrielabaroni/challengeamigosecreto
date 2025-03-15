@@ -4,8 +4,6 @@
 ## O OBJETIVO DESTE PROJETO:
 ###  DESENVOLVER UM APP DE SORTEIO DE AMIGO SECRETO
 
-![Screenshot Amigo Secreto](https://github.com/user-attachments/assets/02d692fb-0265-469a-a036-703fa7ed0f12)
-
 ### OBJETIVO DO APP
 
 #### INSTRUÇÕES DE USO DO APP:
